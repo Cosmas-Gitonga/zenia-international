@@ -12,8 +12,6 @@ import TermsOfService from './pages/TermsOfService';
 import Sitemap from './pages/Sitemap';
 import NotFound from './pages/NotFound';
 
-<h1>HELLO COSMAS TESTING!! 🚀</h1>
-
 function App() {
   return (
     <Routes>
