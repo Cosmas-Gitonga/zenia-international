@@ -7,6 +7,7 @@ import ServiceDetail from './pages/ServiceDetail';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 import NotFound from './pages/NotFound';
 
 <h1>HELLO COSMAS TESTING!! 🚀</h1>
@@ -22,6 +23,7 @@ function App() {
         <Route path="contact" element={<Contact />} />
         <Route path="blog" element={<Blog />} />
         <Route path="blog/:postId" element={<BlogPost />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
