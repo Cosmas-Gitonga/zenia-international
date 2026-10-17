@@ -1,0 +1,64 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://zenia-international.netlify.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/about</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/contact</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/blog</loc>
+  </url>
+
+  <!-- Our Services -->
+  <url>
+    <loc>https://zenia-international.netlify.app/services/digitization</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services/data-management</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services/strategic-research</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services/stakeholder-engagement</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services/strategic-partnerships</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/services/capacity-building</loc>
+  </url>
+
+  <!-- Legal and Information Pages -->
+  <url>
+    <loc>https://zenia-international.netlify.app/privacy-policy</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/terms-of-service</loc>
+  </url>
+
+  <url>
+    <loc>https://zenia-international.netlify.app/sitemap</loc>
+  </url>
+
+</urlset>
