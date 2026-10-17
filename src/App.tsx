@@ -9,6 +9,7 @@ import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
+import Sitemap from './pages/Sitemap';
 import NotFound from './pages/NotFound';
 
 <h1>HELLO COSMAS TESTING!! 🚀</h1>
@@ -26,6 +27,7 @@ function App() {
         <Route path="blog/:postId" element={<BlogPost />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/terms-of-service" element={<TermsOfService />} />
+        <Route path="/sitemap" element={<Sitemap />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
