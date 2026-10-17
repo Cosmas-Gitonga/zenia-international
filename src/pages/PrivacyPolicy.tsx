@@ -10,9 +10,6 @@ const PrivacyPolicy = () => {
           <p className="text-lg text-white">
             Zenia International Limited
           </p>
-          <p className="text-sm text-white mt-2">
-            Effective Date: 17 October 2026
-          </p>
         </div>
       </section>
 
@@ -125,11 +122,6 @@ const PrivacyPolicy = () => {
                 Lavington Mall, James Gichuru Road
                 <br />
                 Nairobi, Kenya
-              </p>
-              <p className="text-gray-600">
-                If you believe your data protection rights have been
-                violated, you may lodge a complaint with Kenya's
-                Office of the Data Protection Commissioner (ODPC).
               </p>
             </div>
 
