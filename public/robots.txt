@@ -1,0 +1,8 @@
+# Zenia International Limited
+# Search Engine Crawling Instructions
+
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://zenia-international.netlify.app/sitemap.xml
