@@ -2,7 +2,13 @@
 const TermsOfService = () => {
   return (
     <>
-      <section className="pt-20 pb-12 md:pt-24 md:pb-16 bg-primary-600 text-white">
+      
+      <section
+        className="pt-20 pb-10 md:pt-24 md:pb-12 relative bg-cover bg-center text-white"
+        style={{
+          backgroundImage: `linear-gradient(rgba(160, 29, 39, 0.9), rgba(160, 29, 39, 0.9)), url(https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)`
+        }}
+      >
         <div className="container-custom text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">
             Terms of Service
