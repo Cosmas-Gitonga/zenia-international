@@ -19,7 +19,7 @@ const teamMembers = [
     id: 2,
     name: 'Maryann Wariithi',
     position: 'Director',
-    bio: 'Mary Ann Wariithi is a seasoned Community Engagement, Partnerships and Strategic Communications specialist with extensive experience in government and community relations, advocacy and resource mobilization. She has demonstrated leadership in community-based organisations, corporate social responsibility initiatives and stakeholder engagement. Mary Ann has spearheaded outreach programmes, fostered strategic partnerships and championed community empowerment initiatives that strengthen collaboration, promote inclusive development and create lasting social impact.',
+    bio: 'Maryann Wariithi is a seasoned Community Engagement, Partnerships and Strategic Communications specialist with extensive experience in government and community relations, advocacy and resource mobilization. She has demonstrated leadership in community-based organisations, corporate social responsibility initiatives and stakeholder engagement. Maryann has spearheaded outreach programmes, fostered strategic partnerships and championed community empowerment initiatives that strengthen collaboration, promote inclusive development and create lasting social impact.',
     //image: "https://images.pexels.com/photos/3746314/pexels-photo-3746314.jpeg?auto=compress&cs=tinysrgb&w=300",
     image: maryannPhoto,
     social: {
