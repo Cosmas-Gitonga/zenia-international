@@ -10,9 +10,6 @@ const TermsOfService = () => {
           <p className="text-lg text-white">
             Zenia International Limited
           </p>
-          <p className="text-sm text-white mt-2">
-            Effective Date: 17 October 2026
-          </p>
         </div>
       </section>
 
