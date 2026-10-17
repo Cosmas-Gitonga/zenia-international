@@ -2,7 +2,6 @@
 const TermsOfService = () => {
   return (
     <>
-      
       <section
         className="pt-20 pb-10 md:pt-24 md:pb-12 relative bg-cover bg-center text-white"
         style={{
