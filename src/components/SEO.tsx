@@ -14,7 +14,7 @@ const metadata: Record<string, { title: string; description: string }> = {
   '/': {
     title: 'Zenia International Limited | Digital Solutions Kenya',
     description:
-      'Zenia International Limited is a Nairobi-based digital solutions and consulting company offering digitization, data management, strategic research and capacity building in Kenya.',
+      'Zenia International Limited provides digitization, data management, strategic research, stakeholder engagement and consulting services in Kenya.',
   },
 
   '/about': {
